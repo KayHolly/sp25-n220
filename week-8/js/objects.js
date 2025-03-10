@@ -1,10 +1,16 @@
-const detailSectionRef = document.qurrySelector("#details");
+const detailSectionRef = document.querySelector("#details");
 
 // Data
 const pokemon = {
     name: "Ponyta",
     type: "Fire",
     weaknesses: ["Water", "Ground", "Rock"],
+    name: "Meowth", 
+    type: "Normal",
+    weaknesses: ["Cheese"],
+    name: "Houndoom",
+    type: "Dark, Fire",
+    weaknesses: ["Water"],
 };
 const myParty = [
     { name: "Ponyta", type: "Fire"},
@@ -13,7 +19,7 @@ const myParty = [
 
 ]
 console.log("My starter pokemon.", pokemon);
-console.log("My pokemon's type:", pokemonType);
+console.log("My pokemon's type:", pokemon.type);
 
 console.log("First pokemon in a party", myParty[0]);
 console.log("Last pokemon's name", myParty[myParty.length - 1].name);
