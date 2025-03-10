@@ -9,7 +9,6 @@ Until recently I had issues submitting assignments and kept making dumb mistakes
   <a href="scores.html">Test Scores</a>
   <a href="gallery.html">Image Gallery</a>
 </nav> 
----
 
 ### Things For Final 
 - Overtype is a function where it overtypes the letters infront of where your typing. 
@@ -18,11 +17,11 @@ Use:
     <link rel="stylesheet" href="style.css">
 - This connects to the stylesheet. This is needed. 
 
-To have final link you need this outline:
+* To have final link you need this outline:
 (https://kayholly.github.io/sp25-n220/_______/)
-The Blank area followed by Folder name
+* The Blank area followed by Folder name
 ---
 ### Links Links and Links
-[Live link] (https://kayholly.github.io/raccoons/)
-[Homework-4] (https://kayholly.github.io/sp25-n220/Homework-4/)
+- [Live link](https://kayholly.github.io/raccoons/)
+- [Homework-4](https://kayholly.github.io/sp25-n220/Homework-4/)
 - Homework 5 is Group work
