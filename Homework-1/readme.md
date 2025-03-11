@@ -1,4 +1,4 @@
-## Assighment 1: Git Readme
+## Assignment 1: Git Readme
 
 ### Website vs Web apps
 <!--- Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.--->
@@ -19,3 +19,8 @@ Version control tracks peoples changes on collaborations. Git is a free for pers
 Markdown is a language that you can use to add formatting elements to plaintext text documents. Its often used for websites, documents, notes, books, presentations, email messages, and technical documentation.
 
 <a href="https://www.markdownguide.org/getting-started/#:~:text=Markdown%20is%20a%20lightweight%20markup,than%20using%20a%20WYSIWYG%20editor."> 
+
+### Assignment Link
+* [Live Link] (https://kayholly.github.io/sp25-n220/)
+* [Homework-1](https://kayholly.github.io/sp25-n220/Homework-1/) 
+* [Homework-2](https://kayholly.github.io/sp25-n220/Homework-2/) 
