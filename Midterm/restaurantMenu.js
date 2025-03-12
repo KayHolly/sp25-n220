@@ -83,3 +83,10 @@ for (let i = 0; i < myFood.length; i++) {
 }
 
   removeBtnRef.onclick = removeItemFromCart;
+
+  // Total cost
+  
+  function calculateTotal() {
+    let total = cart.reduce((sum, menuItems) => sum + menuItems.price, 0);
+    menuItemsUlRef.getElementById("totalPrice").textContent = `Total: $${total.toFixed(2)}`;
+}
