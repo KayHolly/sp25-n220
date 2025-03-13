@@ -14,6 +14,6 @@ Modern me making notes
 before with one of my teammates.
 ---
 ### Assignment Link
-* [Live Link] (https://kayholly.github.io/sp25-n220/)
-* [Homework-2](https://kayholly.github.io/sp25-n220/Homework-2/) 
-* [Homework-3](https://kayholly.github.io/sp25-n220/Homework-3/) 
+* [Live Link] (https://KayHolly.github.io/sp25-n220/)
+* [Homework-2](https://KayHolly.github.io/sp25-n220/Homework-2/) 
+* [Homework-3](https://KayHolly.github.io/sp25-n220/Homework-3/) 

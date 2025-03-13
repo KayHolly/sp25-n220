@@ -2,4 +2,4 @@
 
 ### Live Link
 
-[Home Page](https://kayholly.github.io/sp25-n220/midterm)  
+[Home Page](https://KayHolly.github.io/sp25-n220/Midterm)  

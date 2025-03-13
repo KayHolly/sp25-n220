@@ -18,10 +18,10 @@ Use:
 - This connects to the stylesheet. This is needed. 
 
 * To have final link you need this outline:
-(https://kayholly.github.io/sp25-n220/_______/)
+(https://KayHolly.github.io/sp25-n220/_______/)
 * The Blank area followed by Folder name
 ---
 ### Links Links and Links
-- [Live link](https://kayholly.github.io/sp25-n220/)
-- [Homework-4](https://kayholly.github.io/sp25-n220/Homework-4/)
+- [Live link](https://KayHolly.github.io/sp25-n220/)
+- [Homework-4](https://KayHolly.github.io/sp25-n220/Homework-4/)
 - Homework 5 is Group work

@@ -1,13 +1,13 @@
 ## KayHolly Assignments
 
-* [Live Link] (https://kayholly.github.io/sp25-n220/)
-* [Homework-1](https://kayholly.github.io/sp25-n220/Homework-1/) 
-* [Homework-2](https://kayholly.github.io/sp25-n220/Homework-2/) 
-* [Homework-3](https://kayholly.github.io/sp25-n220/Homework-3/) 
-* [Homework-4](https://kayholly.github.io/sp25-n220/Homework-4/) 
-* [Midterm](https://kayholly.github.io/sp25-n220/Midterm/)
-* [Homework-5](https://kayholly.github.io/sp25-n220/Homework-5/) 
-* [Homework-6](https://kayholly.github.io/sp25-n220/Homework-6/) 
+* [Live Link] (https://KayHolly.github.io/sp25-n220/)
+* [Homework-1](https://KayHolly.github.io/sp25-n220/Homework-1/) 
+* [Homework-2](https://KayHolly.github.io/sp25-n220/Homework-2/) 
+* [Homework-3](https://KayHolly.github.io/sp25-n220/Homework-3/) 
+* [Homework-4](https://KayHolly.github.io/sp25-n220/Homework-4/) 
+* [Midterm](https://KayHolly.github.io/sp25-n220/Midterm/)
+* [Homework-5](https://KayHolly.github.io/sp25-n220/Homework-5/) 
+* [Homework-6](https://KayHolly.github.io/sp25-n220/Homework-6/) 
  ### Website aesthetics 
 * Nav:
 - Colors: darkkhaki

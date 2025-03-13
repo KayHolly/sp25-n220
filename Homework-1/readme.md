@@ -21,6 +21,6 @@ Markdown is a language that you can use to add formatting elements to plaintext 
 <a href="https://www.markdownguide.org/getting-started/#:~:text=Markdown%20is%20a%20lightweight%20markup,than%20using%20a%20WYSIWYG%20editor."> 
 
 ### Assignment Link
-* [Live Link] (https://kayholly.github.io/sp25-n220/)
-* [Homework-1](https://kayholly.github.io/sp25-n220/Homework-1/) 
-* [Homework-2](https://kayholly.github.io/sp25-n220/Homework-2/) 
+* [Live Link] (https://KayHolly.github.io/sp25-n220/)
+* [Homework-1](https://KayHolly.github.io/sp25-n220/Homework-1/) 
+* [Homework-2](https://KayHolly.github.io/sp25-n220/Homework-2/) 
